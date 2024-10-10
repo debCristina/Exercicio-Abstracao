@@ -1,6 +1,6 @@
 package exercicioAbstracao;
 
-public class ProvaUniversidade {
+abstract class ProvaUniversidade {
     private double av1;
     private double av2;
 
